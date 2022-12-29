@@ -18,6 +18,6 @@ https://www.kaggle.com/datasets/danielbacioiu/tig-aluminium-5083
 
 ## OUTPUT
 
-https://github.com/azzaelnaggar/defect_inspection/blob/master/output.png
+https://github.com/azzaelnaggar/defect_inspection/issues/1#issue-1514117374
 
 
