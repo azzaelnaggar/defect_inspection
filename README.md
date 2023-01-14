@@ -1,12 +1,7 @@
 # Defect Inspection-pytorch
 **About Project**
 
-This system for classifying good and defect weld using the pretrained model SqueezeNet on the TIG aluminum 5083 dataset and 
-it reach a test accuracy equals to 99.5%. There were several experiments, and the models were trained using 6-classes, 4-classes,
-and 2-classes tests with highest test accuracies of 71%, 83% and 99.5%, respectively. 
-Finally, the 2 models were deployed using Rest API with flask, 
-the first one is to detect if the image is good weld or defect and the second one is to classify the defect in 
-the image with test accuracy equals to 99%.
+This system for classifying good and defect weld uses the Pytorch pre-trained model SqueezeNet on the TIG aluminum 5083 dataset and it reaches a test accuracy equal to 99.5%. There were several experiments, and the models were trained using 6-classes, 4-classes, and 2-classes tests with the highest test accuracies of 71%, 83%, and 99.5%, respectively. Finally, the 2 models were deployed using Rest API with flask, the first one is to detect if the image is good to weld or defect and the second one is to classify the defect in the image with test accuracy equal to 99%.
 
 ## the best accuracy
 
